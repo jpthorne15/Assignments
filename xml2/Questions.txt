@@ -1,0 +1,4 @@
+Q: How do you think XML relates to HTML?
+A: XML can be used to build markup languages while HTML itself is a markup language.
+Q: What are some benefits of something like HTML using XML's syntax?
+A:   
