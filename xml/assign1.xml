@@ -3,10 +3,10 @@
             <movie category = "Biography, Drama, History"></movie>
                 <title lang = "en"> All The Presidents Men </title>
                 <director>Alan J. Pakula </director>
-                <authors>
+                <writers>
                     <writer>Carl Bernstein </writer>
                     <writer>Bob Woodward </writer>
-                </authors>
+                </writers>
                 <actors>
                     <actor>Dustin Hoffman</actor> 
                     <actor>Robert Redford</actor> 
@@ -28,13 +28,13 @@
  
         </movies>
             <televison>
-                <television series category = "Mockumentary"></television>
+                <television seriesCategory = "Mockumentary"></television>
                 <title lang = "en"> The Office </title>
-                <creators> 
-                    <creator>Greg Daniels</creator> 
-                    <creator>Ricky Gervais</creator> 
-                    <creator>Stephen Merchant</creator> 
-                </creators>
+                <writers> 
+                    <writer>Greg Daniels</writer> 
+                    <writer>Ricky Gervais</writer> 
+                    <writer>Stephen Merchant</writer> 
+                </writers>
                 <actors> Steve Carrell, Jenna Fischer, John Krasinski 
                 </actors>
             </televison>
