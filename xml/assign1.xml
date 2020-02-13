@@ -1,19 +1,47 @@
-<movies>
+    <media>
+        <movies>        
+            <movie category = "Biography, Drama, History"></movie>
+                <title lang = "en"> All The Presidents Men </title>
+                <director>Alan J. Pakula </director>
+                <authors>
+                    <writer>Carl Bernstein </writer>
+                    <writer>Bob Woodward </writer>
+                </authors>
+                <actors>
+                    <actor>Dustin Hoffman</actor> 
+                    <actor>Robert Redford</actor> 
+                    <actor>Jack Warden </actor>    
+                </actors>
+
+            <movie category = "Biography, Crime, Drama"></movie>
+                <title lang = "en"> Spotlight </title>
+                <director> Tom McCarthy </director>
+                <writers> 
+                    <writer>Josh Singer</writer>
+                    <writer>Tom McCathy</writer>
+                </writers>
+                <actors>    
+                    <actor>Mark Ruffalo</actor>
+                    <actor>Michael Keaton</actor>
+                    <actor>Rachel McAdams</actor>
+                </actors>
  
-<movie category = "Biography, Drama, History"></movie>
-    <title lang = "en"> All The Presidents Men </title>
-    <director>Alan J. Pakula </director>
-    <writers>Carl Bernstein (book), Bob Woodward (book) </writers>
-    <stars>Dustin Hoffman, Robert Redford, Jack Warden </stars>
+        </movies>
+            <televison>
+                <television series category = "Mockumentary"></television>
+                <title lang = "en"> The Office </title>
+                <creators> 
+                    <creator>Greg Daniels</creator> 
+                    <creator>Ricky Gervais</creator> 
+                    <creator>Stephen Merchant</creator> 
+                </creators>
+                <actors> Steve Carrell, Jenna Fischer, John Krasinski 
+                </actors>
+            </televison>
+    </media>
+        
 
-<movie category = "Biography, Crime, Drama"></movie>
-    <title lang = "en"> Spotlight </title>
-    <director> Tom McCarthy </director>
-    <writers> Josh Singer, Tom McCathy </writers>
-    <stars> Mark Ruffalo, Michael Keaton, Rachel McAdams </stars>
 
-<television series category = "Mockumentary"></television>
-    <title lang = "en"> The Office </title>
-    <creators> Greg Daniels, Ricky Gervais, Stephen Merchant </creators>
-    <stars> Steve Carrell, Jenna Fischer, John Krasinski </stars>
+
+        
     
