@@ -1,0 +1,19 @@
+body
+{
+  background-color:rgba(195, 219, 247, 1)
+}
+
+.container {
+    display: flex; /* or inline-flex */
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;  
+
+
+  }
+
+  .item {
+
+  }
