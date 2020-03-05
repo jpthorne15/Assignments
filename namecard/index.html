@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <meta name="theme-color" content="#000000" />
+   
+    
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <link rel="stylesheet" href="index.css">
+
+    <title>React App</title>
+  
+
+  </head>
+  <body>
+      <script>
+        function input() {
+            document.getElementById("nameBadge").addEventListener("click", function(event){
+                event.preventDefault()
+              });
+              document.getElementById("Jim").innerHTML = document.getElementById("myText").value;
+            }
+          </script>
+      <form id="nameBadge"> 
+          <input type="text" name="firstname" id="myText" value="Jim" />
+          <button onclick="input()">Submit</button>
+      </form>
+  <div class='nameTag gradient' >
+    <h1>Hello My Name Is</h1>
+    <p id="Jim" class="name">Jim</p>
+   
+   
+   
+</div>
+  </body>
+</html>
