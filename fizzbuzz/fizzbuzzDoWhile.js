@@ -11,4 +11,4 @@ do  {
     }
     else {console.log (x)}
 	x++;
-} while (x <= 15 && x >= 0)
+} while (x <= 100 && x >= 0)
