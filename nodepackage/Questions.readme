@@ -1,0 +1,11 @@
+Throughout this assignment we've used NPM Package and Node Module as if they are the same, while there are similarities, how do they differ from one another?
+Answer: Node Module is a functionality organized in single or multiple
+Javascript files which can be used throughout the node.js application
+npm is a package manager in node.js. for packages or modules. The way I understand it is that
+it does the same things as node.js but it functions as a way to manage the many
+packages required for an application and the API that goes with it.
+
+If you create a new Node Module, how do you share that code with the community?
+Answer: I'm used to sharing any code through Github but there are probably other ways.
+There is an application Bit I learned about that helps you share code that's common to many applications.
+npm. There are other apps that give someone an opportunity to make their code downloadable to others.
