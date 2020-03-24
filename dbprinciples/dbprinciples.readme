@@ -1,0 +1,33 @@
+What is a Database? 
+Collection of information and attributes. Its permanent storage
+Why is an Database necessary? 
+Either the information hard code or it has no permanence in the js file or
+web browser
+
+What can be stored in a Database? 
+Any kind of information that is permanent that you would want to access for your 
+API and UI for processing
+
+What types of Databases are there? 
+SQL/ Relational . No SQLs non relational databases
+
+Why would I use one over the other?
+no SQL are more flexible you can add categories etc.
+With a relational database, you can quickly compare information 
+because of the arrangement of data in columns.
+
+What is a Query? 
+Request for data from the database
+
+What is Encryption?
+Data encryption translates data into another form, or code, so that only people with access to a secret key (formally called a decryption key) or password can read it. 
+Encrypted data is commonly referred to as ciphertext, while unencrypted data is called plaintext
+
+Why is it important at the Database level? 
+To keep data confidential. Its often your users passwords. In general confidential information
+
+What is Object Permanence? 
+The data is there and does not go away when the Web page refreshes
+
+Where can your Database live?
+On a database or backend server. 
