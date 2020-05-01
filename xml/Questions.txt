@@ -1,4 +1,0 @@
-How do you think XML relates to HTML? XML is best used for metadata; Data about data. It's designed to store and transport data. It organizes data as structure. HTML is designed with specific tags for pre determined data types XML is often used in messaging and gaming apps. versus html is the skeletal code for a web page XML carries information; HTML displays it.
-What are some benefits of something like HTML using XML's syntax? You can use tags for specific data like in movies or genre. Possible capability to make the XML syntax of the html page transportable
-What are some disadvantages? Has no browser support and has nothing to support end user applications.
-   
