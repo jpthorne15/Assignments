@@ -1,0 +1,12 @@
+Why are we using Promises here?
+This is the resource where we perform CRUD functions on the database that is being accessed.
+The functions have to execute asynchronously so that there is time access the database. The
+best analogy I've heard is that of a cook and a waiter that brings you your food. The fulfilled
+promise is the completed food order 
+
+What benefits are there for breaking out these functions into their own resource?
+Separation of concerns is a basic principle of full stack design. You could combine
+everything into an index file but it's not human readable
+
+What other functionality could you foresee leveraging this separation of concerns technique with?
+Separating out routes needed to perform CRUD operations.
