@@ -1,0 +1,8 @@
+What type of resources can you host with Express?
+It's designed for hosting the front end or user interface portion of an application
+What are the benefits of using a View Engine over using Vanilla technologies?
+EJS blends html and javascript. It's difficult to try and harmonize plain html and plain javascript
+Why does the Express Generator split up the functionality into so many files?
+Probably because this software that intergrates 2 languages needs more than ever to have a
+separation of concerns so that developers other than the original developer can understand the
+intent of the original developer.

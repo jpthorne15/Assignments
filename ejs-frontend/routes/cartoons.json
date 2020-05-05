@@ -1,0 +1,14 @@
+[
+    {
+        "username": "Mickeymouse",
+        "firstname": "Mickey",
+        "lastname": "Mouse",
+        "email": "mouse@disney1.com",
+    }
+    {
+        "username": "daffyduck",
+        "firstname": "Daffy",
+        "lastname": "Duck",
+        "email": "daffyduck@warnerbrothers1.com"
+    }
+]
